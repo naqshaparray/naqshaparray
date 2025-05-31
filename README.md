@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **full-stack web projects and AI tools**
 - 🌱 I’m currently learning **MERN stack**, **DSA in Python**, and **Prompt Engineering**
-- 🌐 Check out my portfolio: [**Naqsha's Portfolio**](https://naqshaparray.github.io/nakshan_ayoub_portfolio)
+- 🌐 Check out my portfolio: [**Naqsha's Portfolio**](https://nakshan-ayoub-portfolio.vercel.app/)
 - 📫 Reach me at **naqshaparray@gmail.com**
 - ⚡ Fun fact: I love creative UI design and building smart tools that actually help people.
 
@@ -30,7 +30,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [Naqsha's Portfolio](https://github.com/naqshaparray/nakshan_ayoub_portfolio) · [Live Site 🌍](https://naqshaparray.github.io/nakshan_ayoub_portfolio) | A personal portfolio to showcase my skills, resume, and projects, built with HTML, CSS, and JavaScript. |
+| 🔗 [Naqsha's Portfolio](https://github.com/naqshaparray/nakshan_ayoub_portfolio) · [Live Site 🌍](https://nakshan-ayoub-portfolio.vercel.app/) | A personal portfolio to showcase my skills, resume, and projects, built with HTML, CSS, and JavaScript. |
 | 🎯 [QuizApp](https://github.com/naqshaparray/QuizApp) | A fun and interactive quiz platform built with React, featuring score tracking and category-based questions. |
 | 💰 [Finance Management App](https://github.com/naqshaparray/FinanceManagement) | A personal expense tracker app with budget control and data visualization features. |
 | 🎮 [Hypercasual Gaming App](https://github.com/naqshaparray/HypercasualGaming) | A lightweight web game built with HTML5 Canvas and vanilla JavaScript. Simple but addictive! |
