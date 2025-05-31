@@ -31,9 +31,9 @@
 | Project | Description |
 |--------|-------------|
 | 🔗 [Naqsha's Portfolio](https://github.com/naqshaparray/nakshan_ayoub_portfolio) · [Live Site 🌍](https://nakshan-ayoub-portfolio.vercel.app/) | A personal portfolio to showcase my skills, resume, and projects, built with HTML, CSS, and JavaScript. |
-| 🎯 [QuizApp](https://github.com/naqshaparray/QuizApp) | A fun and interactive quiz platform built with React, featuring score tracking and category-based questions. |
-| 💰 [Finance Management App](https://github.com/naqshaparray/FinanceManagement) | A personal expense tracker app with budget control and data visualization features. |
-| 🎮 [Hypercasual Gaming App](https://github.com/naqshaparray/HypercasualGaming) | A lightweight web game built with HTML5 Canvas and vanilla JavaScript. Simple but addictive! |
+| 🎯 [QuizApp](https://github.com/naqshaparray/QuizMaster) | A fun and interactive quiz platform built with React, featuring score tracking and category-based questions. |
+| 💰 [Finance Management App](https://github.com/naqshaparray/Finance-Mnagement-WebApp) | A personal expense tracker app with budget control and data visualization features. |
+| 🎮 [Hypercasual Gaming App](https://github.com/naqshaparray/Hyper-Casual-Gaming-App) | A lightweight web game built with HTML5 Canvas and vanilla JavaScript. Simple but addictive! |
 
 ---
 
