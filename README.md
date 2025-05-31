@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Naqsha Parray</h1>
-<h3 align="center">A Passionate Computer Science Engineering Student | Web Dev & AI Enthusiast</h3>
+<h3 align="center">A Passionate Information Science Engineering Student | Web Dev & AI Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
