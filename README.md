@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **full-stack web projects and AI tools**
 - 🌱 I’m currently learning **MERN stack**, **DSA in Python**, and **Prompt Engineering**
-- 🌐 Check out my portfolio: [**Naqsha's Portfolio**](https://nakshan-ayoub-portfolio.vercel.app/)
+- 🌐 Check out my portfolio: [**Naqsha's Portfolio**](https://mysterious-betta-u14wyk0c.dcms.site/)
 - 📫 Reach me at **naqshaparray@gmail.com**
 - ⚡ Fun fact: I love creative UI design and building smart tools that actually help people.
 
