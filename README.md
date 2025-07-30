@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Naksha Ayoub</h1>
 <h3 align="center">A Passionate Information Science Engineering Student | Web Dev & AI Enthusiast</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔭 I’m currently working on **full-stack web projects and AI tools**
 - 🌱 I’m currently learning **MERN stack**, **DSA in Python**, and **Prompt Engineering**
